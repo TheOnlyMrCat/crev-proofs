@@ -21,3 +21,25 @@ comment: |-
 HcRMN7b2zk39fIM35MyvdSZQEJD-Ajcajmd8nJT69vco2VLsdu3MQbBPgXpNH4CeI13sZbLyoLQxVIJJ-RVtDQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-03-19T17:47:42.015565+11:00"
+from:
+  id-type: crev
+  id: Fe7mO-68lp9OIDTbB0POoA4GlyYWFAqeUjLeNvpTShA
+  url: "https://github.com/TheOnlyMrCat/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: os_str_bytes
+  version: 6.0.0
+  revision: a96a7acec8256f1fb8444738a698b59532ac6107
+  digest: 3ZKlcTUxLPCerMDmBWB3p3lk1BC6AkwthAaABlzJqts
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+----- SIGN CREV PROOF -----
+38652B5ZrSeB7Vy8EjbCvNk3IXkPBedw2tuxaVk6EydKmMe-qhVUxqd_MfY6fdEIyzXEpdNMQlmQA556hMJPCw
+----- END CREV PROOF -----
+
