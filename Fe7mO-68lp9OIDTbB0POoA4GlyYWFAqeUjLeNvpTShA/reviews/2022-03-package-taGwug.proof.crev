@@ -1,0 +1,23 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-03-19T17:34:44.569661+11:00"
+from:
+  id-type: crev
+  id: Fe7mO-68lp9OIDTbB0POoA4GlyYWFAqeUjLeNvpTShA
+  url: "https://github.com/TheOnlyMrCat/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: exitcode
+  version: 1.1.2
+  digest: z01FwfS9ENntBxUXWNrcyT7ppF3-JU32544smcssDJ4
+review:
+  thoroughness: high
+  understanding: high
+  rating: strong
+comment: |-
+  A simple set of constants for a simple reason. Exactly as advertised.
+----- SIGN CREV PROOF -----
+HcRMN7b2zk39fIM35MyvdSZQEJD-Ajcajmd8nJT69vco2VLsdu3MQbBPgXpNH4CeI13sZbLyoLQxVIJJ-RVtDQ
+----- END CREV PROOF -----
+
